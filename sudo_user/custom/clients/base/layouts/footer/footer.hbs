@@ -1,0 +1,18 @@
+<footer>
+    <div class="table-row">
+        <div class="table-cell">
+            <button data-action="home" title="SugarCRM" class="btn btn-invisible logo" role="link" aria-label="SugarCRM" type="button">
+                <img src="{{logoUrl}}" alt="SugarCRM">
+            </button>
+            {{#if sudo_data.in_sudo}}
+                 <span style="margin-left: 25px; border: 1px solid #ff0000; padding: 5px;">
+                    Logged in as {{sudo_data.current_user}} (initial user: {{sudo_data.sudo_user}})
+                </span>
+            {{/if}}
+        </div>
+        <div class="table-cell">
+            <div class="btn-toolbar pull-right">
+            </div>
+        </div>
+    </div>
+</footer>
