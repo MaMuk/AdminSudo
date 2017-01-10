@@ -1,11 +1,14 @@
-# Sugar Labs Admin Sudo
+# Sugar Labs Layout Admin
 
-Sugar Labs Admin Sudo…
+Sugar Labs Layout Admin…
 
-## Installation
-* Download the latest .tgz package here: https://github.com/sugarcrmlabs/AdminSudo/releases/latest
+## Installation & Use
+* Download the latest .tgz package here: https://github.com/sugarcrmlabs/LayoutAdmin/releases/latest
 * Load the package in your target instance using Module Loader
-* Log in as an admin user…
+* Log in as an admin user
+* Navigate to 'Layout Settings' area of Admin menu
+* Select entry 'Layout Settings'
+* List of all modules will be shown. Set number of columns for each module's record view and press the accompanying Save button.
 ```
 
 ## Contributing
