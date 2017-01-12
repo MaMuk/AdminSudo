@@ -6,7 +6,7 @@ To contribute,
 1. Work on your changes within a topic branch.
 1. Create a pull request
 
-Pull requests are accepted under the discretion of the Sugar Labs Admin Sudo maintainer(s). 
+Pull requests are accepted under the discretion of the Sugar Labs Admin Sudo maintainer(s).
 Improve the chances your PR will be merged by following the requirements and guidelines below. 
 For any questions, please e-mail sugarlabs@sugarcrm.com.
 
@@ -23,4 +23,4 @@ For any questions, please e-mail sugarlabs@sugarcrm.com.
 
 File bugs or feature requests using Github Issue Tracker.
 
-https://github.com/sugarcrmlabs/LayoutAdmin/issues
+https://github.com/sugarcrmlabs/AdminSudo/issues
