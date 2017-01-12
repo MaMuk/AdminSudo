@@ -1,9 +1,9 @@
 # Sugar Labs Admin Sudo
 
 Sugar Labs Admin Sudo allows admin users the ability to login as other users in the Sugar instance. There are three packages for this:
-1. sudo_user.zip: Provides initial ability for admin to login as another user. Once logged in as the other user, all access control/security settings defined for that user are considered. Meaning the admin will see only the data that user would see, and be able to perform onyl the actions/edits that user could perform.
-2. SudoAudit2016_11_08_114528.zip: Provides an audit log of all changes made by admin while logged in as another user. This only works for fields marked in Studio as 'Audit'.
-3. exportable_list.zip: Provides ability to export the audit list as a CSV file.
+* sudo_user.zip: Provides initial ability for admin to login as another user. Once logged in as the other user, all access control/security settings defined for that user are considered. Meaning the admin will see only the data that user would see, and be able to perform onyl the actions/edits that user could perform.
+* SudoAudit2016_11_08_114528.zip: Provides an audit log of all changes made by admin while logged in as another user. This only works for fields marked in Studio as 'Audit'.
+* exportable_list.zip: Provides ability to export the audit list as a CSV file.
 
 ## Installation & Use
 * Download the latest .tgz package here: https://github.com/sugarcrmlabs/AdminSudo/releases/latest
